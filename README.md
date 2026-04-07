@@ -1,6 +1,6 @@
 # AI Meeting Summarizer
 
-![Banner](banner-image-ai-meeting-summarizer.png)
+![Banner](media/banner-image-ai-meeting-summarizer.png)
 
 ## Demo Video
 

@@ -8,6 +8,9 @@
   <source src="media/ai-meeting-summarizer.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+> **Tip**: For GitHub.com, use GitHub LFS to upload, then drag the video into an issue to get an embed URL: `https://github.com/user-attachments/assets/VIDEO_ID`
+
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)

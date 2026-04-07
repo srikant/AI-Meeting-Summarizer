@@ -4,12 +4,7 @@
 
 ## Demo Video
 
-<video width="100%" controls>
-  <source src="https://github.com/user-attachments/assets/7472ff09-6d16-4469-a2b6-2511c2593f3a" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> **Tip**: For GitHub.com, use GitHub LFS to upload, then drag the video into an issue to get an embed URL: `https://github.com/user-attachments/assets/VIDEO_ID`
+https://github.com/user-attachments/assets/7472ff09-6d16-4469-a2b6-2511c2593f3a
 
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)

@@ -1,13 +1,38 @@
-# Python virtual environment
-venv/
-.env/
+# Environment variables (contains secrets)
+.env
+.env.local
+.env.*.local
 
-# Python cache files
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.so
+venv/
+env/
+.venv/
+*.egg-info/
+dist/
+build/
 
-# VS Code (optional)
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Audio temp files
+temp_*
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
 
-# OS files (optional)
+# OS
 .DS_Store
+Thumbs.db

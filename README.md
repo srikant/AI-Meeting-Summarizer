@@ -313,12 +313,12 @@ Here are planned improvements for future versions:
 
 ## Author Details
 
-|              |                                                                 |
-| ------------ | --------------------------------------------------------------- |
-| **Name**     | Shrekanth Dhondi                                                |
-| **Role**     | Full-stack Developer / AI Enthusiast                            |
-| **GitHub**   | [@srikant](https://github.com/srikant)                          |
-| **LinkedIn** | [Your LinkedIn Profile](https://linkedin.com/in/srikanthdhondi) |
+|              |                                                           |
+| ------------ | --------------------------------------------------------- |
+| **Name**     | Shrekanth Dhondi                                          |
+| **Role**     | Full-stack Developer / AI Enthusiast                      |
+| **GitHub**   | [@srikant](https://github.com/srikant)                    |
+| **LinkedIn** | [@srikanthdhondi](https://linkedin.com/in/srikanthdhondi) |
 
 ---
 
@@ -360,7 +360,7 @@ Contributions are welcome! Here's how you can help:
 
 Found a bug or have a feature request? Please open an issue:
 
-1. Go to the [Issues](https://github.com/your-username/meeting-summarizer/issues) page
+1. Go to the [Issues](https://github.com/srikant/AI-Meeting-Summarizer/issues) page
 2. Click "New Issue"
 3. Provide a clear description with steps to reproduce
 4. Include relevant screenshots if applicable

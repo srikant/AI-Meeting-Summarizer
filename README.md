@@ -5,7 +5,7 @@
 ## Demo Video
 
 <video width="100%" controls>
-  <source src="media/ai-meeting-summarizer.mp4" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/7472ff09-6d16-4469-a2b6-2511c2593f3a" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
